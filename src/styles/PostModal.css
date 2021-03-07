@@ -1,0 +1,53 @@
+.modal__header {
+  display: flex;
+  align-items: center;
+  padding: 40px 60px 22px 60px;
+}
+
+.modal__header h5 {
+  margin: 0 0 0px 4px;
+}
+
+.modal__content {
+  padding: 0 60px 0 60px;
+}
+
+#content666 {
+  margin: 0;
+  padding: 30px 0 40px 0;
+  white-space: pre-line;
+}
+
+.modal__content > h1 {
+  margin: 0;
+}
+
+.content__stat {
+  display: flex;
+  margin: 12px 0px 0px 0px;
+}
+
+.stat__tag::after {
+  content: '·';
+  padding: 0 7px 0 7px;
+}
+
+.avatar__female {
+  color: white !important;
+  background-color: crimson !important;
+}
+
+.avatar__male {
+  color: white !important;
+  background-color: cornflowerblue !important;
+}
+
+.tags {
+  display: flex;
+  padding-bottom: 16px;
+}
+
+.comments {
+  padding: 40px 0;
+  background: rgb(245, 245, 245);
+}

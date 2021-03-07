@@ -1,0 +1,44 @@
+.skeleton {
+  background-color: #ddd;
+  margin: 10px 0;
+  border-radius: 4px;
+}
+
+.skeleton.text {
+  width: 80%;
+  height: 12px;
+}
+
+.skeleton.title {
+  width: 50%;
+  height: 20px;
+  margin-bottom: 15px;
+}
+
+.skeleton.avatar {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.skeleton.thumbnail {
+  width: 100px;
+  height: 100px;
+}
+
+.skeleton__wrapper {
+  margin: 20px auto;
+  padding: 20px 25px;
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+}
+
+.listUp__wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.listDown__wrapper {
+}

@@ -1,0 +1,19 @@
+.tag {
+  padding: 8px 8px 0 0;
+}
+
+.tag a {
+  text-decoration: none;
+}
+
+.tag > div {
+  height: 32px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  border-radius: 16px;
+  color: rgba(0, 0, 0, 0.75);
+  background: rgb(239, 239, 239);
+  padding: 0 16px;
+}
